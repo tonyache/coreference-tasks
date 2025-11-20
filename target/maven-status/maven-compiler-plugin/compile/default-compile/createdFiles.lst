@@ -1,0 +1,8 @@
+com/yourorg/emailcoref/EmailWithMentions.class
+com/yourorg/emailcoref/DemoMain.class
+com/yourorg/emailcoref/IdentifierClusterer.class
+com/yourorg/emailcoref/CoreNlpPipelineFactory.class
+com/yourorg/emailcoref/EmailMessage.class
+com/yourorg/emailcoref/MentionRef.class
+com/yourorg/emailcoref/PersonCluster.class
+com/yourorg/emailcoref/CorefResolver.class
